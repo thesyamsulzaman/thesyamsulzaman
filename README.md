@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**thesyamsulzaman/thesyamsulzaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### I'm Syamsul Zaman, i'm an aspiring Developer who loves crafting Intuitive, Fast, and Secure Web Application
 
 - 🔭 I’m currently working on Javascript and PHP ...
 - 🌱 I’m currently learning React and Node.js...
