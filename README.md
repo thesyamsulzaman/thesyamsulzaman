@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm Syamsul Zaman, i'm an aspiring Developer who loves crafting Intuitive, Fast, and Secure Web Application
+#### I'm Syamsul Zaman, i'm an aspiring Developer who's obsessed to crafting Intuitive, Robust, and Secure Web Application
 
 - 🔭 I’m currently working on Javascript and PHP ...
 - 🌱 I’m currently learning React and Node.js...
