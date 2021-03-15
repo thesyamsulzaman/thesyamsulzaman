@@ -6,5 +6,7 @@
 - 🌱 I’m currently learning React and Node.js ...
 - 💬 Ask me about : anything nerd related ...
 - 📫 How to reach me: thesyamsulzaman@gmail.com
-- ⚡ Fun fact: 
+- ⚡ Fun fact: People find my name hard to pronounce at first
 -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesyamsulzaman&show_icons=true&theme=radical)
