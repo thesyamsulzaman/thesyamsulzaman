@@ -12,4 +12,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesyamsulzaman&show_icons=true&theme=dark)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesyamsulzaman&layout=compact)](https://github.com/thesyamsulzaman/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesyamsulzaman)](https://github.com/thesyamsulzaman/github-readme-stats)
