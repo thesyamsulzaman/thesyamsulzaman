@@ -9,4 +9,5 @@
 - ⚡ Fun fact: People find my name hard to pronounce at first
 -->
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesyamsulzaman&layout=compact)](https://github.com/thesyamsulzaman/github-readme-stats)
