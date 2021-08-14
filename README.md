@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm Syamsul Zaman, i'm an aspiring Software Engineer who's always down for challenges 
+#### I'm Syamsul Zaman, i'm an aspiring Developer who's always down for challenges 
 
 - 🌱 Currently studying Computer Science ...
 - 📫 Reach me out: thesyamsulzaman@gmail.com
