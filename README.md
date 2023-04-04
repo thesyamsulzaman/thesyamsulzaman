@@ -4,7 +4,7 @@
 #### I <del> write code </del> solve problems with code
 
 
-- 🌱 Currently studying Computer Science ...
+- 🌱 Currently studying Computer Science at Nusa Putra University
 - 📫 Reach me out: thesyamsulzaman@gmail.com
 - ⚡ Fun fact: It's gonna take some time for you to pronounce my name properly
 
