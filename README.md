@@ -8,3 +8,19 @@
 - 📫 Reach me out: thesyamsulzaman@gmail.com
 - ⚡ Fun fact: It's gonna take some time for you to pronounce my name properly
 
+#### Techologies
+- Javascript (ES6+)
+- React.js
+- Typescript
+- Next.js
+- GraphQL
+- Node.js
+- Express.js
+- PostgreSQL
+
+#### Tools
+- Webpack
+- Gulp
+- Tmux
+- Vim
+
