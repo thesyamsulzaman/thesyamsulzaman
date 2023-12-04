@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm Syamsul Zaman, i'm an aspiring Developer who's always down for challenges 
+#### I'm Syamsul Zaman, i'm an aspiring Developer who's always down for new challenges 
 #### I <del> write code </del> solve problems with code
 
 
@@ -13,6 +13,7 @@
 - React.js
 - Typescript
 - Next.js
+- Redux / Redux Toolkit / Redux RTK
 - GraphQL
 - Node.js
 - Express.js
