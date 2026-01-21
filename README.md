@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm Syamsul Zaman, i'm an aspiring Developer who's always down for new challenges 
+#### I'm Syamsul Zaman, i'm an aspiring Software Engineer who's always down for new challenges 
 #### I <del> write code </del> solve problems with code
 
 - 📫 Reach me out: thesyamsulzaman@gmail.com
@@ -20,6 +20,7 @@
 - Django
 - Express.js
 - PostgreSQL
+- Amazon Web Service (Cloudfront, S3, EC2)
 
 #### Tools
 - Webpack
